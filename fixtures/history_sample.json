@@ -1,0 +1,2934 @@
+{
+ "_comment": "Synthetic 12-month coded card history for demo and tests. Not real data.",
+ "BankTransactions": [
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Skyline Air"
+   },
+   "Date": "2025-10-02",
+   "Status": "AUTHORISED",
+   "Total": 436.85,
+   "LineItems": [
+    {
+     "Description": "SKYLINE AIR 6559",
+     "AccountCode": "6400",
+     "Quantity": 1,
+     "UnitAmount": 436.85,
+     "LineAmount": 436.85,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2025-10-05",
+   "Status": "AUTHORISED",
+   "Total": 37.38,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 37.38,
+     "LineAmount": 37.38,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2025-10-05",
+   "Status": "AUTHORISED",
+   "Total": 14.51,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 14.51,
+     "LineAmount": 14.51,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Pied Piper Video"
+   },
+   "Date": "2025-10-09",
+   "Status": "AUTHORISED",
+   "Total": 1008.3,
+   "LineItems": [
+    {
+     "Description": "PIED PIPER VIDEO",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 1008.3,
+     "LineAmount": 1008.3,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2025-10-09",
+   "Status": "AUTHORISED",
+   "Total": 21.31,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 21.31,
+     "LineAmount": 21.31,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Moonbeam Hosting"
+   },
+   "Date": "2025-10-10",
+   "Status": "AUTHORISED",
+   "Total": 18.57,
+   "LineItems": [
+    {
+     "Description": "MOONBEAM HOSTING 6617",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 18.57,
+     "LineAmount": 18.57,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2025-10-12",
+   "Status": "AUTHORISED",
+   "Total": 231.89,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 5333 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 231.89,
+     "LineAmount": 231.89,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2025-10-13",
+   "Status": "AUTHORISED",
+   "Total": 92.17,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 92.17,
+     "LineAmount": 92.17,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2025-10-15",
+   "Status": "AUTHORISED",
+   "Total": 273.1,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 273.1,
+     "LineAmount": 273.1,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2025-10-18",
+   "Status": "AUTHORISED",
+   "Total": 908.84,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 9689",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 908.84,
+     "LineAmount": 908.84,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2025-10-19",
+   "Status": "AUTHORISED",
+   "Total": 11.91,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 2163",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 11.91,
+     "LineAmount": 11.91,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2025-10-21",
+   "Status": "AUTHORISED",
+   "Total": 43.29,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 5506",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 43.29,
+     "LineAmount": 43.29,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2025-10-28",
+   "Status": "AUTHORISED",
+   "Total": 80.43,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #357",
+     "AccountCode": "6600",
+     "Quantity": 1,
+     "UnitAmount": 80.43,
+     "LineAmount": 80.43,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2025-11-01",
+   "Status": "AUTHORISED",
+   "Total": 823.75,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 9005",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 823.75,
+     "LineAmount": 823.75,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2025-11-02",
+   "Status": "AUTHORISED",
+   "Total": 261.41,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 261.41,
+     "LineAmount": 261.41,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2025-11-02",
+   "Status": "AUTHORISED",
+   "Total": 16.38,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 16.38,
+     "LineAmount": 16.38,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Pied Piper Video"
+   },
+   "Date": "2025-11-07",
+   "Status": "AUTHORISED",
+   "Total": 1128.67,
+   "LineItems": [
+    {
+     "Description": "PIED PIPER VIDEO",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 1128.67,
+     "LineAmount": 1128.67,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Moonbeam Hosting"
+   },
+   "Date": "2025-11-07",
+   "Status": "AUTHORISED",
+   "Total": 19.01,
+   "LineItems": [
+    {
+     "Description": "MOONBEAM HOSTING 5325",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 19.01,
+     "LineAmount": 19.01,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2025-11-08",
+   "Status": "AUTHORISED",
+   "Total": 44.93,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 2679",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 44.93,
+     "LineAmount": 44.93,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2025-11-14",
+   "Status": "AUTHORISED",
+   "Total": 44.06,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #749",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 44.06,
+     "LineAmount": 44.06,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2025-11-15",
+   "Status": "AUTHORISED",
+   "Total": 20.79,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 20.79,
+     "LineAmount": 20.79,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2025-11-20",
+   "Status": "AUTHORISED",
+   "Total": 31.29,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 31.29,
+     "LineAmount": 31.29,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2025-11-22",
+   "Status": "AUTHORISED",
+   "Total": 93.78,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 93.78,
+     "LineAmount": 93.78,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2025-11-23",
+   "Status": "AUTHORISED",
+   "Total": 13.51,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 4750",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 13.51,
+     "LineAmount": 13.51,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2025-11-26",
+   "Status": "AUTHORISED",
+   "Total": 181.24,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 8527 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 181.24,
+     "LineAmount": 181.24,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Skyline Air"
+   },
+   "Date": "2025-11-26",
+   "Status": "AUTHORISED",
+   "Total": 498.83,
+   "LineItems": [
+    {
+     "Description": "SKYLINE AIR 5073",
+     "AccountCode": "6400",
+     "Quantity": 1,
+     "UnitAmount": 498.83,
+     "LineAmount": 498.83,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2025-12-01",
+   "Status": "AUTHORISED",
+   "Total": 706.85,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 6947",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 706.85,
+     "LineAmount": 706.85,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2025-12-01",
+   "Status": "AUTHORISED",
+   "Total": 21.72,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 21.72,
+     "LineAmount": 21.72,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2025-12-01",
+   "Status": "AUTHORISED",
+   "Total": 106.35,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #145",
+     "AccountCode": "6600",
+     "Quantity": 1,
+     "UnitAmount": 106.35,
+     "LineAmount": 106.35,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2025-12-02",
+   "Status": "AUTHORISED",
+   "Total": 17.19,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 17.19,
+     "LineAmount": 17.19,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2025-12-03",
+   "Status": "AUTHORISED",
+   "Total": 14.58,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 6413",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 14.58,
+     "LineAmount": 14.58,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Skyline Air"
+   },
+   "Date": "2025-12-07",
+   "Status": "AUTHORISED",
+   "Total": 408.18,
+   "LineItems": [
+    {
+     "Description": "SKYLINE AIR 8350",
+     "AccountCode": "6400",
+     "Quantity": 1,
+     "UnitAmount": 408.18,
+     "LineAmount": 408.18,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2025-12-08",
+   "Status": "AUTHORISED",
+   "Total": 108.56,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 108.56,
+     "LineAmount": 108.56,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2025-12-18",
+   "Status": "AUTHORISED",
+   "Total": 186.36,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 7201 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 186.36,
+     "LineAmount": 186.36,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2025-12-20",
+   "Status": "AUTHORISED",
+   "Total": 41.36,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 41.36,
+     "LineAmount": 41.36,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2025-12-22",
+   "Status": "AUTHORISED",
+   "Total": 52.54,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 9935",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 52.54,
+     "LineAmount": 52.54,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Pied Piper Video"
+   },
+   "Date": "2025-12-23",
+   "Status": "AUTHORISED",
+   "Total": 943.51,
+   "LineItems": [
+    {
+     "Description": "PIED PIPER VIDEO",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 943.51,
+     "LineAmount": 943.51,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2025-12-27",
+   "Status": "AUTHORISED",
+   "Total": 213.61,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 213.61,
+     "LineAmount": 213.61,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-01-02",
+   "Status": "AUTHORISED",
+   "Total": 16.4,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 16.4,
+     "LineAmount": 16.4,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-01-03",
+   "Status": "AUTHORISED",
+   "Total": 50.33,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 1520",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 50.33,
+     "LineAmount": 50.33,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-01-03",
+   "Status": "AUTHORISED",
+   "Total": 213.28,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 6925 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 213.28,
+     "LineAmount": 213.28,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2026-01-03",
+   "Status": "AUTHORISED",
+   "Total": 13.06,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 5562",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 13.06,
+     "LineAmount": 13.06,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-01-03",
+   "Status": "AUTHORISED",
+   "Total": 22.25,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 22.25,
+     "LineAmount": 22.25,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Skyline Air"
+   },
+   "Date": "2026-01-05",
+   "Status": "AUTHORISED",
+   "Total": 439.45,
+   "LineItems": [
+    {
+     "Description": "SKYLINE AIR 5563",
+     "AccountCode": "6400",
+     "Quantity": 1,
+     "UnitAmount": 439.45,
+     "LineAmount": 439.45,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-01-09",
+   "Status": "AUTHORISED",
+   "Total": 41.09,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 41.09,
+     "LineAmount": 41.09,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-01-13",
+   "Status": "AUTHORISED",
+   "Total": 92.1,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 92.1,
+     "LineAmount": 92.1,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Pied Piper Video"
+   },
+   "Date": "2026-01-15",
+   "Status": "AUTHORISED",
+   "Total": 1119.88,
+   "LineItems": [
+    {
+     "Description": "PIED PIPER VIDEO",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 1119.88,
+     "LineAmount": 1119.88,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2026-01-21",
+   "Status": "AUTHORISED",
+   "Total": 66.68,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #233",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 66.68,
+     "LineAmount": 66.68,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2026-01-25",
+   "Status": "AUTHORISED",
+   "Total": 276.15,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 276.15,
+     "LineAmount": 276.15,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2026-01-27",
+   "Status": "AUTHORISED",
+   "Total": 873.63,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 4923",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 873.63,
+     "LineAmount": 873.63,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-02-01",
+   "Status": "AUTHORISED",
+   "Total": 43.03,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 4811",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 43.03,
+     "LineAmount": 43.03,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2026-02-02",
+   "Status": "AUTHORISED",
+   "Total": 737.81,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 2290",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 737.81,
+     "LineAmount": 737.81,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Pied Piper Video"
+   },
+   "Date": "2026-02-04",
+   "Status": "AUTHORISED",
+   "Total": 924.37,
+   "LineItems": [
+    {
+     "Description": "PIED PIPER VIDEO",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 924.37,
+     "LineAmount": 924.37,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-02-09",
+   "Status": "AUTHORISED",
+   "Total": 19.57,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 19.57,
+     "LineAmount": 19.57,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2026-02-14",
+   "Status": "AUTHORISED",
+   "Total": 248.92,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 248.92,
+     "LineAmount": 248.92,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Skyline Air"
+   },
+   "Date": "2026-02-15",
+   "Status": "AUTHORISED",
+   "Total": 416.22,
+   "LineItems": [
+    {
+     "Description": "SKYLINE AIR 2235",
+     "AccountCode": "6400",
+     "Quantity": 1,
+     "UnitAmount": 416.22,
+     "LineAmount": 416.22,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-02-19",
+   "Status": "AUTHORISED",
+   "Total": 190.61,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 2139 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 190.61,
+     "LineAmount": 190.61,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-02-19",
+   "Status": "AUTHORISED",
+   "Total": 110.18,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 110.18,
+     "LineAmount": 110.18,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-02-22",
+   "Status": "AUTHORISED",
+   "Total": 38.38,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 38.38,
+     "LineAmount": 38.38,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2026-02-22",
+   "Status": "AUTHORISED",
+   "Total": 12.94,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 9834",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 12.94,
+     "LineAmount": 12.94,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2026-02-24",
+   "Status": "AUTHORISED",
+   "Total": 118.38,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #265",
+     "AccountCode": "6600",
+     "Quantity": 1,
+     "UnitAmount": 118.38,
+     "LineAmount": 118.38,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-02-28",
+   "Status": "AUTHORISED",
+   "Total": 16.15,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 16.15,
+     "LineAmount": 16.15,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-03-02",
+   "Status": "AUTHORISED",
+   "Total": 220.16,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 5741 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 220.16,
+     "LineAmount": 220.16,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2026-03-03",
+   "Status": "AUTHORISED",
+   "Total": 855.66,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 2133",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 855.66,
+     "LineAmount": 855.66,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-03-03",
+   "Status": "AUTHORISED",
+   "Total": 24.5,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 24.5,
+     "LineAmount": 24.5,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2026-03-05",
+   "Status": "AUTHORISED",
+   "Total": 13.87,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 8744",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 13.87,
+     "LineAmount": 13.87,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-03-07",
+   "Status": "AUTHORISED",
+   "Total": 103.62,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 103.62,
+     "LineAmount": 103.62,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Pied Piper Video"
+   },
+   "Date": "2026-03-11",
+   "Status": "AUTHORISED",
+   "Total": 856.31,
+   "LineItems": [
+    {
+     "Description": "PIED PIPER VIDEO",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 856.31,
+     "LineAmount": 856.31,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2026-03-14",
+   "Status": "AUTHORISED",
+   "Total": 75.35,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #822",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 75.35,
+     "LineAmount": 75.35,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-03-17",
+   "Status": "AUTHORISED",
+   "Total": 50.5,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 4257",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 50.5,
+     "LineAmount": 50.5,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-03-17",
+   "Status": "AUTHORISED",
+   "Total": 13.98,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 13.98,
+     "LineAmount": 13.98,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-03-25",
+   "Status": "AUTHORISED",
+   "Total": 33.48,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 33.48,
+     "LineAmount": 33.48,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2026-03-28",
+   "Status": "AUTHORISED",
+   "Total": 242.58,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 242.58,
+     "LineAmount": 242.58,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-04-03",
+   "Status": "AUTHORISED",
+   "Total": 232.39,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 2654 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 232.39,
+     "LineAmount": 232.39,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-04-03",
+   "Status": "AUTHORISED",
+   "Total": 16.46,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 16.46,
+     "LineAmount": 16.46,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2026-04-03",
+   "Status": "AUTHORISED",
+   "Total": 84.87,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #214",
+     "AccountCode": "6600",
+     "Quantity": 1,
+     "UnitAmount": 84.87,
+     "LineAmount": 84.87,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-04-04",
+   "Status": "AUTHORISED",
+   "Total": 33.77,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 33.77,
+     "LineAmount": 33.77,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2026-04-06",
+   "Status": "AUTHORISED",
+   "Total": 240.92,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 240.92,
+     "LineAmount": 240.92,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2026-04-08",
+   "Status": "AUTHORISED",
+   "Total": 14.11,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 7669",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 14.11,
+     "LineAmount": 14.11,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-04-10",
+   "Status": "AUTHORISED",
+   "Total": 19.74,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 19.74,
+     "LineAmount": 19.74,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-04-21",
+   "Status": "AUTHORISED",
+   "Total": 97.78,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 97.78,
+     "LineAmount": 97.78,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-04-23",
+   "Status": "AUTHORISED",
+   "Total": 51.2,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 9928",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 51.2,
+     "LineAmount": 51.2,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2026-04-25",
+   "Status": "AUTHORISED",
+   "Total": 807.85,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 3060",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 807.85,
+     "LineAmount": 807.85,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-05-05",
+   "Status": "AUTHORISED",
+   "Total": 91.47,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 91.47,
+     "LineAmount": 91.47,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Vandelay Design"
+   },
+   "Date": "2026-05-05",
+   "Status": "AUTHORISED",
+   "Total": 838.34,
+   "LineItems": [
+    {
+     "Description": "VANDELAY DESIGN*INV 3705",
+     "AccountCode": "6300",
+     "Quantity": 1,
+     "UnitAmount": 838.34,
+     "LineAmount": 838.34,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2026-05-05",
+   "Status": "AUTHORISED",
+   "Total": 115.6,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #807",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 115.6,
+     "LineAmount": 115.6,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2026-05-07",
+   "Status": "AUTHORISED",
+   "Total": 11.42,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 8062",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 11.42,
+     "LineAmount": 11.42,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2026-05-09",
+   "Status": "AUTHORISED",
+   "Total": 281.99,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 281.99,
+     "LineAmount": 281.99,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-05-13",
+   "Status": "AUTHORISED",
+   "Total": 196.01,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 6977 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 196.01,
+     "LineAmount": 196.01,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-05-13",
+   "Status": "AUTHORISED",
+   "Total": 14.18,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 14.18,
+     "LineAmount": 14.18,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-05-14",
+   "Status": "AUTHORISED",
+   "Total": 44.89,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 5557",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 44.89,
+     "LineAmount": 44.89,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-05-15",
+   "Status": "AUTHORISED",
+   "Total": 30.64,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 30.64,
+     "LineAmount": 30.64,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-05-23",
+   "Status": "AUTHORISED",
+   "Total": 20.7,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 20.7,
+     "LineAmount": 20.7,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-06-01",
+   "Status": "AUTHORISED",
+   "Total": 23.11,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 23.11,
+     "LineAmount": 23.11,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-06-06",
+   "Status": "AUTHORISED",
+   "Total": 201.82,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 4432 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 201.82,
+     "LineAmount": 201.82,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-06-09",
+   "Status": "AUTHORISED",
+   "Total": 106.34,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 106.34,
+     "LineAmount": 106.34,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Adspring Media"
+   },
+   "Date": "2026-06-10",
+   "Status": "AUTHORISED",
+   "Total": 244.23,
+   "LineItems": [
+    {
+     "Description": "ADSPRING MEDIA",
+     "AccountCode": "6700",
+     "Quantity": 1,
+     "UnitAmount": 244.23,
+     "LineAmount": 244.23,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2026-06-12",
+   "Status": "AUTHORISED",
+   "Total": 12.7,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 8651",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 12.7,
+     "LineAmount": 12.7,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Umbrella Market"
+   },
+   "Date": "2026-06-12",
+   "Status": "AUTHORISED",
+   "Total": 83.65,
+   "LineItems": [
+    {
+     "Description": "UMBRELLA MARKET #954",
+     "AccountCode": "6600",
+     "Quantity": 1,
+     "UnitAmount": 83.65,
+     "LineAmount": 83.65,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-06-17",
+   "Status": "AUTHORISED",
+   "Total": 38.83,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 38.83,
+     "LineAmount": 38.83,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-06-19",
+   "Status": "AUTHORISED",
+   "Total": 16.45,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 16.45,
+     "LineAmount": 16.45,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-06-26",
+   "Status": "AUTHORISED",
+   "Total": 54.43,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 3615",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 54.43,
+     "LineAmount": 54.43,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-07-04",
+   "Status": "AUTHORISED",
+   "Total": 40.0,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 40.0,
+     "LineAmount": 40.0,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-07-14",
+   "Status": "AUTHORISED",
+   "Total": 16.76,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 16.76,
+     "LineAmount": 16.76,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-07-19",
+   "Status": "AUTHORISED",
+   "Total": 96.01,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 96.01,
+     "LineAmount": 96.01,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-07-22",
+   "Status": "AUTHORISED",
+   "Total": 195.32,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 2169 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 195.32,
+     "LineAmount": 195.32,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-07-22",
+   "Status": "AUTHORISED",
+   "Total": 19.38,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 19.38,
+     "LineAmount": 19.38,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-07-23",
+   "Status": "AUTHORISED",
+   "Total": 47.86,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 5552",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 47.86,
+     "LineAmount": 47.86,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Blue Bottle Cafe"
+   },
+   "Date": "2026-07-28",
+   "Status": "AUTHORISED",
+   "Total": 13.89,
+   "LineItems": [
+    {
+     "Description": "SQ *BLUE BOTTLE CAFE 2612",
+     "AccountCode": "6500",
+     "Quantity": 1,
+     "UnitAmount": 13.89,
+     "LineAmount": 13.89,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-08-05",
+   "Status": "AUTHORISED",
+   "Total": 44.82,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 6514",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 44.82,
+     "LineAmount": 44.82,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-08-05",
+   "Status": "AUTHORISED",
+   "Total": 99.28,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 99.28,
+     "LineAmount": 99.28,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-08-09",
+   "Status": "AUTHORISED",
+   "Total": 19.46,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 19.46,
+     "LineAmount": 19.46,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-08-11",
+   "Status": "AUTHORISED",
+   "Total": 18.09,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 18.09,
+     "LineAmount": 18.09,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-08-20",
+   "Status": "AUTHORISED",
+   "Total": 218.5,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 9751 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 218.5,
+     "LineAmount": 218.5,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-08-27",
+   "Status": "AUTHORISED",
+   "Total": 37.5,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 37.5,
+     "LineAmount": 37.5,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Acme Supplies"
+   },
+   "Date": "2026-09-04",
+   "Status": "AUTHORISED",
+   "Total": 43.01,
+   "LineItems": [
+    {
+     "Description": "ACME SUPPLIES*SUB 2584",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 43.01,
+     "LineAmount": 43.01,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Hooli Workspace"
+   },
+   "Date": "2026-09-05",
+   "Status": "AUTHORISED",
+   "Total": 34.64,
+   "LineItems": [
+    {
+     "Description": "HOOLI WORKSPACE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 34.64,
+     "LineAmount": 34.64,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Streamflix"
+   },
+   "Date": "2026-09-22",
+   "Status": "AUTHORISED",
+   "Total": 17.04,
+   "LineItems": [
+    {
+     "Description": "STREAMFLIX.COM",
+     "AccountCode": "3100",
+     "Quantity": 1,
+     "UnitAmount": 17.04,
+     "LineAmount": 17.04,
+     "TaxType": "NONE"
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Globex Cloud"
+   },
+   "Date": "2026-09-24",
+   "Status": "AUTHORISED",
+   "Total": 193.92,
+   "LineItems": [
+    {
+     "Description": "GLOBEX CLOUD 8573 SEATTLE WA",
+     "AccountCode": "6200",
+     "Quantity": 1,
+     "UnitAmount": 193.92,
+     "LineAmount": 193.92,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Bluebird Goods"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "RECEIVE",
+   "Contact": {
+    "Name": "Demo Card Issuer"
+   },
+   "Date": "2026-09-24",
+   "Status": "AUTHORISED",
+   "Total": 22.35,
+   "LineItems": [
+    {
+     "Description": "CASHBACK REWARD",
+     "AccountCode": "4900",
+     "Quantity": 1,
+     "UnitAmount": 22.35,
+     "LineAmount": 22.35,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Northwind Studio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Type": "SPEND",
+   "Contact": {
+    "Name": "Initech Software"
+   },
+   "Date": "2026-09-25",
+   "Status": "AUTHORISED",
+   "Total": 85.55,
+   "LineItems": [
+    {
+     "Description": "INITECH SOFTWARE",
+     "AccountCode": "6100",
+     "Quantity": 1,
+     "UnitAmount": 85.55,
+     "LineAmount": 85.55,
+     "TaxType": "NONE",
+     "Tracking": [
+      {
+       "Name": "Brand",
+       "Option": "Summit Media"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

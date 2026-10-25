@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xero-card-coding"
+version = "0.1.0"
+description = "Approval-gated credit-card coding for Xero, learned from coded GL history."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Mark Valderrama" }]
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31"]
+
+[project.urls]
+Repository = "https://github.com/markvalderrama001-svg/xero-card-coding"
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+cardcoding = "cardcoding.__main__:main"
+
+[tool.setuptools]
+packages = ["cardcoding"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

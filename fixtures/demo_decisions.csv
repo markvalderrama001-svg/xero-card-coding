@@ -1,0 +1,8 @@
+line,account,tracking,contact,note
+9,6400,Bluebird Goods,Skyline Air,trade-show flights for Bluebird Goods
+10,6600,Northwind Studio,Umbrella Market,office supplies receipt checked
+15,6200,Summit Media,Moonbeam Hosting,new hosting plan for Summit Media
+16,6600,Bluebird Goods,Stark Hardware,new vendor - shelving for Bluebird Goods
+17,6600,Northwind Studio,Wayne Coworking,new vendor - coworking desk
+18,6200,Bluebird Goods,Globex Cloud,refund of line 2 - code back to hosting
+20,SKIP,,,card payment already recorded as a transfer from the operating account
